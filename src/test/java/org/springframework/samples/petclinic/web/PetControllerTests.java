@@ -119,7 +119,7 @@ public class PetControllerTests {
             .andExpect(model().attributeHasNoErrors("owner"))
             .andExpect(model().attributeHasErrors("pet"))
             .andExpect(status().isOk())
-            .andExpect(view().name("pets/NikoCasseVraimentTout"));
+            .andExpect(view().name("pets/NikoCasseVraimentToutPartout"));
             //.andExpect(view().name("pets/createOrUpdatePetForm"));
     }
 
