@@ -10,8 +10,8 @@
     <table id="vetsTable" class="table table-striped">
         <thead>
         <tr>
-            <th>Name</th>
-            <th>Specialties</th>
+            <th>Nom</th>
+            <th>Spécialités</th>
         </tr>
         </thead>
         <tbody>
