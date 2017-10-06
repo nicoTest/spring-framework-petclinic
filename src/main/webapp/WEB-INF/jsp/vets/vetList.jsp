@@ -11,7 +11,7 @@
         <thead>
         <tr>
             <th>Nom</th>
-            <th>Dans quoi ils sont bons</th>
+            <th>Dans quoi ils sont nuls</th>
         </tr>
         </thead>
         <tbody>
