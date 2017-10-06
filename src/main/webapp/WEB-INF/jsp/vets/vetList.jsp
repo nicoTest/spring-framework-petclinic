@@ -11,7 +11,7 @@
         <thead>
         <tr>
             <th>Nom</th>
-            <th>Specialites</th>
+            <th>Dans quoi ils sont bons</th>
         </tr>
         </thead>
         <tbody>
