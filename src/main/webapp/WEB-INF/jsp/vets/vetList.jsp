@@ -11,7 +11,7 @@
         <thead>
         <tr>
             <th>Nom</th>
-            <th>Spécialités</th>
+            <th>Specialites</th>
         </tr>
         </thead>
         <tbody>
